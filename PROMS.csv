@@ -1,4 +1,4 @@
-Procedure group,Organisation Code,Organisation Name,Modelled records,Average Q1 Score,Average Q2 Score,Adjusted average Q2 score,Adjusted average health gain,Lower confidence interval for adjusted average health gain,Upper confidence interval for adjusted average health gain
+procedureGroup,organisationCode,organisationName,modelledRecords,averageQ1Score,averageQ2Score,adjustedAverageQ2score,adjustedAverageHealthGain,lowerConfidenceInterval,upperConfidenceInterval
 Hip Replacement,National,National,"26,479",0.349,0.76,0.76,0.411,0.406,0.415
 Hip Replacement,5QT,ISLE OF WIGHT NHS PCT,131,0.33,0.751,0.728,0.398,0.325,0.471
 Hip Replacement,NT204,"NUFFIELD HEALTH, BRENTWOOD HOSPITAL",*,*,*,*,*,*,*
